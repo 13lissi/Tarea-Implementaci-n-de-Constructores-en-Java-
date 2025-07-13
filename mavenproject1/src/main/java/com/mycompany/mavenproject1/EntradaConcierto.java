@@ -42,10 +42,10 @@ public class EntradaConcierto {
 
     // Metodo que muestra la informacion de la entrada
     public void mostrarDetalles() {
-        System.out.println("\nInformación de tu entrada:");
+        System.out.println("\nInformacion de tu entrada:");
         System.out.println("Artista: " + this.artista);
         System.out.println("Lugar: " + this.lugar);
         System.out.println("Fecha: " + this.fecha);
-        System.out.println("Precio: $" + this.precio);
+        System.out.println("Precio:" + this.precio);
     }
 }
