@@ -1,4 +1,4 @@
-<h1>Tareas_Implementacion de constructores en java</h1>
+<h1>Tarea_Implementacion de constructores en java</h1>
 
 <h3>Repositorio de código fuente creado para la Asignatura de Programación Orientada a Objetos.</h3>
 
@@ -14,7 +14,7 @@
 <h3>Descripción</h3>
 
 <p>
-    Este programa simula un sistema básico para comprar entradas a conciertos. El usuario puede seleccionar entre artistas reales como Shakira y Taylor Swift, y el sistema genera automáticamente los datos de la entrada.
+    Este programa simula un sistema básico para comprar entradas a conciertos. El usuario puede seleccionar entre artistas como Shakira y Taylor Swift, y el sistema genera automáticamente los datos de la entrada.
 </p>
 
 <p>Se aplica la Programación Orientada a Objetos (POO) con:</p>
